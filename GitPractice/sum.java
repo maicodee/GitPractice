@@ -15,7 +15,7 @@ int b = sc.nextInt();
 System.out.println("Second Number is: " +b);
 
 int c = a + b;
-System.out.println("Sum of First and Second number is: " +c);
+System.out.println("Sum of First and Second number: " +c);
 
 }
 }
